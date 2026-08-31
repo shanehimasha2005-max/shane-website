@@ -1,0 +1,9 @@
+media:
+  input: images
+  output: /images
+
+content:
+  - name: homepage
+    label: Home Page
+    type: file
+    path: index.html
